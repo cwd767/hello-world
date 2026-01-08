@@ -16,3 +16,12 @@ Commit Steps:
 1. stage the changes
 2. add a message and commit the change
 3. push the commit to GitHub
+
+
+Commands in Terminal:
+1. "pwd" = print working directory (current)
+2. "ls" = list; lists the files within the directory - doesn't show dot files
+3. "ls -la" = show me ALL files in the repository/directory, even hidden files
+4. 
+
+
