@@ -16,4 +16,3 @@ Commit Steps:
 1. stage the changes
 2. add a message and commit the change
 3. push the commit to GitHub
-
